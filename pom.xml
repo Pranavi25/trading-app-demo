@@ -104,10 +104,10 @@
         </executions>
         <groupId>org.apache.maven.plugins</groupId>
 <<<<<<< HEAD
-      </plugin>-->
+      </plugin>
 =======
-      </plugin> -->
->>>>>>> 99adf52dbd4bc3a0c6ad6c6e3d8d6d709e3bf29b
+      </plugin>
+>>>>>>> 99adf52dbd4bc3a0c6ad6c6e3d8d6d709e3bf29b -->
           <plugin>
               <groupId>org.apache.maven.plugins</groupId>
               <artifactId>maven-assembly-plugin</artifactId>
